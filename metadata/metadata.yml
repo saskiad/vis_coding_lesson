@@ -1,5 +1,7 @@
 metadata_version: 1
 name: Visual Coding Lesson
-description: Basic structure of a capsule to be customized as needed.
+description: Use the Allen Brain Observatory Visual Coding dataset to compute tuning
+  curves of neurons in the mouse visual cortex. This capsule has multiple lessons
+  to compute tuning curves and compare responses of different neurons in the cortex.
 authors:
-- name: AIND
+- name: Saskia de Vries
