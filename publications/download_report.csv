@@ -1,0 +1,84 @@
+#,status,file,url,note
+1,OK,01_abs_1610.03177.pdf,https://arxiv.org/abs/1610.03177,already downloaded
+2,OK,02_abs_1703.06946.pdf,https://arxiv.org/abs/1703.06946,already downloaded
+3,OK,03_content_early_2017_09_21_134379.pdf,https://www.biorxiv.org/content/early/2017/09/21/134379,already downloaded
+4,FAILED,,https://www.sciencedirect.com/science/article/pii/S2211124717314304,"HTTP 403, not a PDF at www.sciencedirect.com"
+5,FAILED,,https://www.biorxiv.org/content/early/2017/11/29/226514,"HTTP 429, not a PDF at www.biorxiv.org"
+6,OK,06_articles_s41467_022_29200_z.pdf,https://www.nature.com/articles/s41467-022-29200-z,already downloaded
+7,OK,07_content_5_4_ENEURO.0414_17.2018.pdf,https://www.eneuro.org/content/5/4/ENEURO.0414-17.2018,already downloaded
+8,OK,08_articles_56053.pdf,https://elifesciences.org/articles/56053,https://cdn.elifesciences.org/articles/56053/elife-56053-v2.pdf
+9,FAILED,,https://link.springer.com/article/10.1007%2Fs12021-018-9357-1,"HTTP 200, not a PDF at link.springer.com"
+10,FAILED,,https://www.biorxiv.org/content/10.1101/271296v1,"HTTP 429, not a PDF at www.biorxiv.org"
+11,OK,11_10.1371_journal.pcbi.1006535.pdf,https://doi.org/10.1371/journal.pcbi.1006535,already downloaded
+12,FAILED,,https://www.biorxiv.org/content/10.1101/343285v1,"HTTP 429, not a PDF at www.biorxiv.org"
+13,OK,13_10.1038_s41593_019_0550_9.pdf,https://doi.org/10.1038/s41593-019-0550-9,already downloaded
+14,OK,14_10.1371_journal.pone.0213924.pdf,https://doi.org/10.1371/journal.pone.0213924,already downloaded
+15,OK,15_articles_s41592_022_01422_5.pdf,https://www.nature.com/articles/s41592-022-01422-5,already downloaded
+16,FAILED,,https://www.pnas.org/content/116/17/8554,"HTTP 403, not a PDF at www.pnas.org"
+17,OK,17_content_10.1101_676999v1.pdf,https://www.biorxiv.org/content/10.1101/676999v1,already downloaded
+18,OK,18_pdf_1908.10959.pdf,https://arxiv.org/pdf/1908.10959,already downloaded
+19,OK,19_abs_1911.07986.pdf,https://arxiv.org/abs/1911.07986,already downloaded
+20,OK,20_pdf_1908.07957.pdf,https://arxiv.org/pdf/1908.07957.pdf,already downloaded
+21,OK,21_articles_73783.pdf,https://elifesciences.org/articles/73783,https://cdn.elifesciences.org/articles/73783/elife-73783-v2.pdf
+22,OK,22_content_8_1_ENEURO.0188_20.2021.pdf,https://www.eneuro.org/content/8/1/ENEURO.0188-20.2021,already downloaded
+23,OK,23_articles_69068.pdf,https://elifesciences.org/articles/69068,https://cdn.elifesciences.org/articles/69068/elife-69068-v1.pdf
+24,OK,24_articles_s41593_021_00895_5.pdf,https://www.nature.com/articles/s41593-021-00895-5,already downloaded
+25,OK,25_pdf_1807.09728.pdf,https://arxiv.org/pdf/1807.09728.pdf,already downloaded
+26,OK,26_content_10.1101_2020.09.24.309500v1.pdf,https://www.biorxiv.org/content/10.1101/2020.09.24.309500v1.full,already downloaded
+27,OK,27_articles_s41592_021_01285_2.pdf,https://www.nature.com/articles/s41592-021-01285-2,already downloaded
+28,FAILED,,https://www.cell.com/current-biology/fulltext/S0960-9822(21)01052-6,"HTTP 403, not a PDF at www.cell.com"
+29,FAILED,,https://www.sciencedirect.com/science/article/pii/S0304394020306777?via%3Dihub,"HTTP 403, not a PDF at www.sciencedirect.com"
+30,FAILED,,https://www.sciencedirect.com/science/article/pii/S0165027020303459?via%3Dihub,"HTTP 403, not a PDF at www.sciencedirect.com"
+31,OK,31_content_early_2022_09_06_ENEURO.0491_21.2022.pdf,https://www.eneuro.org/content/early/2022/09/06/ENEURO.0491-21.2022,already downloaded
+32,OK,32_ploscompbiol_article_id_10.1371_journal.pcbi.1008548.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008548#sec010,already downloaded
+33,OK,33_content_10.1101_2021.03.24.436279v2.pdf,https://www.biorxiv.org/content/10.1101/2021.03.24.436279v2,already downloaded
+34,FAILED,,https://www.sciencedirect.com/science/article/pii/S2211124721012262?via%3Dihub,"HTTP 403, not a PDF at www.sciencedirect.com"
+35,OK,35_ploscompbiol_article_id_10.1371_journal.pcbi.1009212.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009212,already downloaded
+36,FAILED,,https://www.nature.com/articles/s42256-021-00342-x,PDF link found but blocked (likely paywall/login)
+37,FAILED,,https://ieeexplore.ieee.org/abstract/document/9432961,"HTTP 200, not a PDF at ieeexplore.ieee.org"
+38,FAILED,,https://www.proquest.com/docview/2528564168?pq-origsite=gscholar&fromopenview=true,"HTTP 200, not a PDF at www.proquest.com"
+39,OK,39_content_10.1101_2021.06.18.448989v2.pdf,https://www.biorxiv.org/content/10.1101/2021.06.18.448989v2,https://www.biorxiv.org/content/biorxiv/early/2021/06/24/2021.06.18.448989.full.pdf
+40,OK,40_content_10.1101_2021.06.18.448431v1.pdf,https://www.biorxiv.org/content/10.1101/2021.06.18.448431v1,https://www.biorxiv.org/content/biorxiv/early/2021/06/18/2021.06.18.448431.full.pdf
+41,FAILED,,https://www.sciencedirect.com/science/article/pii/S0169207023000717,"HTTP 403, not a PDF at www.sciencedirect.com"
+42,OK,42_articles_64449.pdf,https://elifesciences.org/articles/64449,https://cdn.elifesciences.org/articles/64449/elife-64449-v2.pdf
+43,FAILED,,https://www.biorxiv.org/content/10.1101/2021.06.16.448730v2.full,"HTTP 429, not a PDF at www.biorxiv.org"
+44,FAILED,,https://doi.org/10.1101/826701,"HTTP 429, not a PDF at doi.org"
+45,FAILED,,https://www.jneurosci.org/content/early/2021/08/19/JNEUROSCI.0051-21.2021,"HTTP 403, not a PDF at www.jneurosci.org"
+46,OK,46_ploscompbiol_article_id_10.1371_journal.pcbi.1010427.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010427,already downloaded
+47,OK,47_pdf_2103.05075.pdf,https://arxiv.org/pdf/2103.05075.pdf,already downloaded
+48,OK,48_abs_2112.02027.pdf,https://arxiv.org/abs/2112.02027,already downloaded
+49,OK,49_articles_82566.pdf,https://elifesciences.org/articles/82566,https://cdn.elifesciences.org/articles/82566/elife-82566-v1.pdf
+50,OK,50_ploscompbiol_article_id_10.1371_journal.pcbi.1010716.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010716,already downloaded
+51,OK,51_pdf_2102.09403.pdf,https://arxiv.org/pdf/2102.09403.pdf,already downloaded
+52,OK,52_articles_10.3389_fnins.2021.797421_full.pdf,https://www.frontiersin.org/articles/10.3389/fnins.2021.797421/full,already downloaded
+53,OK,53_ploscompbiol_article_id_10.1371_journal.pcbi.1009832.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009832,already downloaded
+54,OK,54_pdf_2204.00673.pdf,https://arxiv.org/pdf/2204.00673.pdf,already downloaded
+55,OK,55_articles_s41467_022_29180_0.pdf,https://www.nature.com/articles/s41467-022-29180-0,already downloaded
+56,OK,56_pdf_2205.08413.pdf,https://arxiv.org/pdf/2205.08413.pdf,already downloaded
+57,FAILED,,https://www.tandfonline.com/doi/pdf/10.1080/10618600.2022.2123337,"HTTP 403, not a PDF at www.tandfonline.com"
+58,FAILED,,https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00329-7,"HTTP 403, not a PDF at www.cell.com"
+59,OK,59_content_10.1101_2022.05.24.493230v6.pdf,https://www.biorxiv.org/content/10.1101/2022.05.24.493230v6,already downloaded
+60,OK,60_content_10.1101_2022.11.02.514938v1.pdf,https://www.biorxiv.org/content/10.1101/2022.11.02.514938v1,already downloaded
+61,OK,61_content_10.1101_2022.11.21.517415v1.pdf,https://www.biorxiv.org/content/10.1101/2022.11.21.517415v1,already downloaded
+62,FAILED,,https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054313,"HTTP 403, not a PDF at journals.aps.org"
+63,FAILED,,https://www.sciencedirect.com/science/article/pii/S0361923022002519,"HTTP 403, not a PDF at www.sciencedirect.com"
+64,FAILED,,https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2256503,"HTTP 403, not a PDF at www.tandfonline.com"
+65,OK,65_content_10.1101_2023.05.13.540658v2.pdf,https://www.biorxiv.org/content/10.1101/2023.05.13.540658v2.full,already downloaded
+66,OK,66_journals_cellular_neuroscience_articles_10.3389_fncel.2023.1238777_full.pdf,https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1238777/full,already downloaded
+67,OK,67_ploscompbiol_article_id_10.1371_journal.pcbi.1011506.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011506,already downloaded
+68,OK,68_journals_cellular_neuroscience_articles_10.3389_fncel.2023.1127847_full.pdf,https://www.frontiersin.org/journals/cellular-neuroscience/articles/10.3389/fncel.2023.1127847/full,already downloaded
+69,OK,69_content_11_2_ENEURO.0352_23.2024.pdf,https://www.eneuro.org/content/11/2/ENEURO.0352-23.2024,already downloaded
+70,FAILED,,https://openreview.net/forum?id=WpFCplXaLv,"HTTP 200, not a PDF at openreview.net"
+71,FAILED,,https://academic.oup.com/bioinformatics/article/40/4/btae177/7639977,"HTTP 403, not a PDF at academic.oup.com"
+72,OK,72_content_10.1101_2024.06.24.600438v1.pdf,https://www.biorxiv.org/content/10.1101/2024.06.24.600438v1.full,already downloaded
+73,OK,73_content_10.1101_2024.06.20.599756v1.pdf,https://www.biorxiv.org/content/10.1101/2024.06.20.599756v1.full,already downloaded
+74,FAILED,,https://link.springer.com/chapter/10.1007/978-3-031-70638-7_1,"HTTP 200, not a PDF at link.springer.com"
+75,OK,75_pdf_2412.07264.pdf,https://arxiv.org/pdf/2412.07264,already downloaded
+76,FAILED,,https://www.biorxiv.org/content/10.1101/2025.08.13.670197v2.full,"HTTP 429, not a PDF at www.biorxiv.org"
+77,OK,77_article_sci_SCI25_0_SCI25_1_pdf.pdf,https://www.jstage.jst.go.jp/article/sci/SCI25/0/SCI25_1/_pdf,already downloaded
+78,OK,78_content_10.1101_2025.10.29.685363v1.pdf,https://www.biorxiv.org/content/10.1101/2025.10.29.685363v1.full,already downloaded
+79,OK,79_abs_2505.06886.pdf,https://arxiv.org/abs/2505.06886,already downloaded
+80,OK,80_abs_2506.14014.pdf,https://arxiv.org/abs/2506.14014,already downloaded
+81,OK,81_ploscompbiol_article_id_10.1371_journal.pcbi.1014123.pdf,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014123,already downloaded
+82,OK,82_articles_s41593_025_02128_5.pdf,https://www.nature.com/articles/s41593-025-02128-5,already downloaded
+83,OK,83_pdf_2605.03222.pdf,https://arxiv.org/pdf/2605.03222,already downloaded
